@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asili Hub - Contact Us</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Asili Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="how-to-order.html">How to Order</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-title">
+        <h1>Wasiliana Nasi</h1>
+        <p>Tuko tayari kukusaidia muda wowote.</p>
+    </section>
+
+    <section class="contact-container">
+        <div class="contact-info">
+            <h3>Maelezo ya Mawasiliano</h3>
+            <p><strong>Simu:</strong> +255 622 268 725</p>
+            <p><strong>Email:</strong> asilihub@gmail.com</p>
+            <a href="https://wa.me/255622268725" class="btn">WhatsApp</a><br><br>
+            <a href="#" class="btn">Instagram</a>
+        </div>
+
+        <form class="contact-form">
+            <h3>Tuma Ujumbe</h3>
+            <input type="text" placeholder="Jina Lako" required />
+            <input type="email" placeholder="Email" required />
+            <textarea placeholder="Ujumbe Wako" required></textarea>
+            <button type="submit" class="btn">Tuma</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2025 Asili Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
