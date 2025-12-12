@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asili Hub - How to Order</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Asili Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="how-to-order.html" class="active">How to Order</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-title">
+        <h1>Jinsi ya Kununua</h1>
+        <p>Fuata hatua rahisi kupata bidhaa zako za asili.</p>
+    </section>
+
+    <section class="order-steps">
+        <div class="step">
+            <h3>1. Chagua Bidhaa</h3>
+            <p>Tembelea ukurasa wa bidhaa na uchague unachohitaji.</p>
+        </div>
+
+        <div class="step">
+            <h3>2. Tuma Ujumbe WhatsApp</h3>
+            <p>Tutumie ujumbe kupitia WhatsApp kuthibitisha oda.</p>
+            <a href="https://wa.me/255622268725" class="btn">WhatsApp</a>
+        </div>
+
+        <div class="step">
+            <h3>3. Lipa</h3>
+            <p>Malipo yanapokelewa kupitia:<br>M-Pesa • TigoPesa • AirtelMoney</p>
+        </div>
+
+        <div class="step">
+            <h3>4. Tunakuletea Bidhaa</h3>
+            <p>Utaipokea ndani ya muda mfupi kulingana na eneo lako.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Asili Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
