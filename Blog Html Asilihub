@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asili Hub - Blog</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Asili Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="how-to-order.html">How to Order</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="blog.html" class="active">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-title">
+        <h1>Elimu ya Afya Asilia</h1>
+        <p>Makala fupi kuhusu matumizi ya bidhaa za asili.</p>
+    </section>
+
+    <section class="blog-container">
+        <div class="blog-card">
+            <h3>Faida za Mafuta ya Mkaratusi</h3>
+            <p>Mafuta ya mkaratusi husaidia kupunguza mafua, kupumua vizuri na kupunguza msongo wa mawazo.</p>
+            <a href="#" class="btn">Soma Zaidi</a>
+        </div>
+
+        <div class="blog-card">
+            <h3>Jinsi ya Kutengeneza Scrub ya Nyumbani</h3>
+            <p>Changanya sukari, asali na mafuta ya nazi kuunda scrub ya kupendeza kwa ngozi.</p>
+            <a href="#" class="btn">Soma Zaidi</a>
+        </div>
+
+        <div class="blog-card">
+            <h3>Tiba za Asili kwa Chunusi</h3>
+            <p>Asali, limao na mafusho ya mkaratusi vinaweza kusaidia kupunguza chunusi kwa urahisi.</p>
+            <a href="#" class="btn">Soma Zaidi</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Asili Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
