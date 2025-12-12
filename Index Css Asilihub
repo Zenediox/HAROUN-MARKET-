@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asili Hub - Home</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Asili Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="how-to-order.html">How to Order</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-text">
+            <h1>Karibu Asili Hub</h1>
+            <p>Tunauza bidhaa safi na za asili kwa ajili ya afya na ngozi yako.</p>
+        </div>
+    </section>
+
+    <section class="intro">
+        <h2>Bidhaa Asilia Kwa Afya Yako</h2>
+        <p>Gundua mafuta, sabuni, na bidhaa za asili zinazoboresha mwili na afya.</p>
+        <img src="https://images.unsplash.com/photo-1582719478190-ef6f85f766b9" alt="Natural Products" class="intro-img" />
+    </section>
+
+    <footer>
+        <p>© 2025 Asili Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
