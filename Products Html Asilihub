@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asili Hub - Products</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Asili Hub</div>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="products.html" class="active">Products</a></li>
+                <li><a href="how-to-order.html">How to Order</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-title">
+        <h1>Bidhaa Zetu</h1>
+        <p>Chagua bidhaa safi za asili, salama kwa ngozi na afya.</p>
+    </section>
+
+    <section class="products-container">
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2" alt="Coconut Oil" />
+            <h3>Mafuta ya Nazi</h3>
+            <p>100% Organic Coconut Oil</p>
+            <span class="price">Tsh 12,000</span>
+            <a href="https://wa.me/255622268725" class="btn">Wasiliana Kununua</a>
+        </div>
+
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1612810806563-9a4c1a1a0039" alt="Castor Oil" />
+            <h3>Mafuta ya Mbarika</h3>
+            <p>Pure Jamaican Castor Oil</p>
+            <span class="price">Tsh 15,000</span>
+            <a href="https://wa.me/255622268725" class="btn">Wasiliana Kununua</a>
+        </div>
+
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6" alt="Natural Soap" />
+            <h3>Sabuni ya Asili</h3>
+            <p>Sabuni ya mkaa / asali / mchaichai</p>
+            <span class="price">Tsh 6,000</span>
+            <a href="https://wa.me/255622268725" class="btn">Wasiliana Kununua</a>
+        </div>
+
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1512621776951-a57141f2eefd" alt="Organic Honey" />
+            <h3>Asali ya Nyuki</h3>
+            <p>Asali mbichi 100% Natural</p>
+            <span class="price">Tsh 18,000</span>
+            <a href="https://wa.me/255622268725" class="btn">Wasiliana Kununua</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Asili Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
